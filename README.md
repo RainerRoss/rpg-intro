@@ -328,7 +328,7 @@ The following operations are used for subroutines:
 **FREE
 
 Ctl-Opt DftActGrp(*No);
-
+ 
 Dcl-S gMyGlobal Int(3);
 
 gMyGlobal = 0;
